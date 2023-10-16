@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Togthr-template-React/static/css/main.2166ff2b.css",
+    "main.js": "/Togthr-template-React/static/js/main.d1e615d0.js",
+    "index.html": "/Togthr-template-React/index.html",
+    "main.2166ff2b.css.map": "/Togthr-template-React/static/css/main.2166ff2b.css.map",
+    "main.d1e615d0.js.map": "/Togthr-template-React/static/js/main.d1e615d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2166ff2b.css",
+    "static/js/main.d1e615d0.js"
+  ]
+}
